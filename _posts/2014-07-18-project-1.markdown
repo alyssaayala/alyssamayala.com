@@ -4,7 +4,7 @@ modal-id: 1
 date: 2014-07-18
 img: ManagingTypeOne.png
 alt: image-alt
-project-date: June-July 2026
+project-date: May-July 2026
 date-link: https://alyssamayala.itch.io/managing-t1d
 client: Personal Project
 client-link: https://alyssamayala.itch.io/managing-t1d
