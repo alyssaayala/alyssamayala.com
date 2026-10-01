@@ -4,7 +4,7 @@ modal-id: 4
 date: 2014-07-16
 img: MurderSmallGeorgiaTown.png
 alt: image-alt
-project-date: 2026
+project-date: Premiering October 25, 2026
 date-link: https://www.mylifetime.com/movies
 client: Lifetime/Storyteller Studios
 client-link: https://storytellerstudios.productions/2026/07/09/murder-in-a-small-georgia-town-2026/
