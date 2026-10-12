@@ -2,7 +2,7 @@
 layout: default
 modal-id: 4
 date: 2014-07-16
-img: MurderSmallGeorgiaTown.png
+img: SecretsSmallGeorgiaTown.png
 alt: image-alt
 project-date: Premiering October 25, 2026
 date-link: https://www.mylifetime.com/movies/secrets-in-a-small-georgia-town
