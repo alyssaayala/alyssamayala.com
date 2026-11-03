@@ -3,7 +3,7 @@ layout: default
 modal-id: 5
 date: 2014-07-16
 img: reelthumbnail.png
-video: alyssaayalareel.mp4
+youtube: G0ZkOqoEcSc
 alt: image-alt
 project-date: 2026
 date-link: https://www.youtube.com
