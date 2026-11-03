@@ -2,8 +2,8 @@
 layout: default
 modal-id: 5
 date: 2014-07-16
-img: examplethumbnail.png
-video: example.mp4
+img: reelthumbnail.png
+video: alyssaayalareel.mp4
 alt: image-alt
 project-date: 2026
 date-link: https://www.youtube.com
