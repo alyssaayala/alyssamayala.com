@@ -1,0 +1,15 @@
+---
+layout: default
+modal-id: 5
+date: 2014-07-16
+img: reelthumbnail.png
+youtube: G0ZkOqoEcSc
+alt: image-alt
+project-date: 2026
+date-link: https://youtu.be/G0ZkOqoEcSc
+client: Demo Reel
+client-link: https://youtu.be/G0ZkOqoEcSc
+category: Acting
+category-link: https://youtu.be/G0ZkOqoEcSc
+description: My professional film reel, footage from the film Secrets In A Small Georgia Town, available now wherever you can watch Lifetime.
+---
